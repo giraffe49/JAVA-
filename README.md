@@ -1,4 +1,6 @@
 # java-SimpleGame
+### 程式說明影片:
+https://drive.google.com/file/d/1b5-k12ZPiPVBT5bzrtyeoh24SLph0dka/view?usp=sharing
 ### 遊戲說明:
 以類似大富翁的形式,配合闖關遊戲,讓玩家可以體驗到以智力取勝的樂趣,也能透過運氣闖關成功。
 用逃脫的故事為主軸,搭配中間穿插的小遊戲,能展示出平日的學習成果,並融會貫通。
